@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrackingTheCodingInterview", "test\CrackingTheCodingInterview.csproj", "{32C8C0FE-B5FA-40AF-89D8-59FB703A7403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32C8C0FE-B5FA-40AF-89D8-59FB703A7403}.Debug|x86.ActiveCfg = Debug|x86
+		{32C8C0FE-B5FA-40AF-89D8-59FB703A7403}.Debug|x86.Build.0 = Debug|x86
+		{32C8C0FE-B5FA-40AF-89D8-59FB703A7403}.Release|x86.ActiveCfg = Release|x86
+		{32C8C0FE-B5FA-40AF-89D8-59FB703A7403}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
