@@ -39,6 +39,9 @@
     <Compile Include="LinkList\LinkListNode.cs" />
     <Compile Include="LinkList\LinkList.cs" />
     <Compile Include="LinkList\LinkListMain.cs" />
+    <Compile Include="Stack\StackNode.cs" />
+    <Compile Include="Stack\Stack.cs" />
+    <Compile Include="Stack\StackMain.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\CrackingTheCoding.config" />
@@ -46,6 +49,8 @@
   <ItemGroup>
     <Folder Include="LinkList\" />
     <Folder Include="Stack\" />
+    <Folder Include="New Folder\" />
+    <Folder Include="BinaryTree\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
