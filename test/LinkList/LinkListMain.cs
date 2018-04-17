@@ -7,7 +7,7 @@ namespace test.LinkList
         {
         }
 
-        public static void Main(string[] args)
+        public static void Main_list(string[] args)
         {
             //int[] A = { 1, 2, 4, 6, 1, 2,-1,-2 };
            // int i = solution(A);

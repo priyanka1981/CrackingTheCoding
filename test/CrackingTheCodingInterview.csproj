@@ -42,6 +42,9 @@
     <Compile Include="Stack\StackNode.cs" />
     <Compile Include="Stack\Stack.cs" />
     <Compile Include="Stack\StackMain.cs" />
+    <Compile Include="BinaryTree\BinaryTreeNode.cs" />
+    <Compile Include="BinaryTree\BinaryTree.cs" />
+    <Compile Include="BinaryTree\BinaryTreeMain.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\CrackingTheCoding.config" />

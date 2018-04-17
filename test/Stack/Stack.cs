@@ -35,8 +35,8 @@ namespace test.Stack
             }
         }
 
-        public StackNode Min(){
+        //public StackNode Min(){
             
-        }
+        //}
     }
 }
